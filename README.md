@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vanditpopat&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Vandit-cmd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nachiket-cmd&show_icons=true&locale=en" alt="nachiket-cmd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanditpopat&theme=default&show_icons=true&hide_border=true&count_private=true" alt="vandit-cmd" /></p>
